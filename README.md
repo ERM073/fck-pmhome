@@ -12,3 +12,20 @@ IPアドレスCLoudflare Warpのものにを変更すると見えたりします
 全部のprimehomeチャンネルが見える訳ではありませんがこのスクリプトを実行すれば復活します。
 
 生成したindex.m3u8をVLCで読み込むだけです:)
+
+### 使い方
+
+Linux 
+```bash
+pip install requests beautifulsoup4
+git clone https://github.com/ERM073/fck-primehome/
+cd fck-primehome
+```
+
+
+
+Windows
+
+https://github.com/ERM073/fck-primehome/releases/latest
+
+からfck.exeをインストールして実行
