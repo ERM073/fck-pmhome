@@ -20,6 +20,7 @@ Linux
 pip install requests beautifulsoup4
 git clone https://github.com/ERM073/fck-primehome/
 cd fck-primehome
+python3 fck.py
 ```
 
 
