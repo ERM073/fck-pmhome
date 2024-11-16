@@ -28,4 +28,6 @@ Windows
 
 https://github.com/ERM073/fck-primehome/releases/latest
 
-からfck.exeをインストールして実行
+からfck.exeをインストールして実行するだけ
+
+index.m3u8が生成されるのでVLC等で読み込んで下さい。
