@@ -1,7 +1,7 @@
-# fck-primehome ⚠公開後1週間ですぐに対策がされたためもう使用できません。
+# fck-pmhome ⚠公開後1週間ですぐに対策がされたためもう使用できません。
 ## 私の知る合法的な抜け道はまだありますが、様々な観点からリスクが高い為アップデートは今後行いません。
 
-唐突にサーバーを規制した日本向けのIPTV Primehomeを強制的に復活させて使用する抜け道を見つけました。
+唐突にサーバーを規制した日本向けのIPTV PMHを強制的に復活させて使用する抜け道を見つけました。
 
 ソースコードを公開すると対策される可能性があるのでexe形式と難読化したpythonスクリプトのみを配布します。
 
@@ -20,7 +20,7 @@
 Linux 
 ```bash
 pip install requests beautifulsoup4
-git clone https://github.com/ERM073/fck-primehome/
+git clone https://github.com/ERM073/fck-pmhome/
 cd fck-primehome
 python3 fck.py
 ```
@@ -29,7 +29,7 @@ python3 fck.py
 
 Windows
 
-https://github.com/ERM073/fck-primehome/releases/latest
+https://github.com/ERM073/fck-pmhome/releases/latest
 
 からfck.exeをインストールして実行するだけ
 
